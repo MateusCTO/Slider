@@ -7,6 +7,7 @@
 
 [🔗Clique aqui para acessar!](https://slider-ten-phi.vercel.app/)
 
+
 ## 📟 Tecnologias
 
   <div style="display: inline_block"><br>
