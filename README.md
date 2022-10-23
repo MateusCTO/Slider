@@ -5,7 +5,7 @@
 
 
 
-[🔗Clique aqui para acessar!](https://urnaeletronica-phi.vercel.app/)
+[🔗Clique aqui para acessar!](https://slider-ten-phi.vercel.app/)
 
 ## 📟 Tecnologias
 
